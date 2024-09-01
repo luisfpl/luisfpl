@@ -52,6 +52,14 @@ I’m a technology leader responsible for cloud architecture and AI-driven solut
   - **Agile Tools**: Proficient in using Jira, Confluence, GitHub, and JFrog to manage development cycles.
   - **AI Engineering**: Specialized in developing and deploying AI-driven chatbots.
 
+- **GitHub Actions & CI/CD**:
+  - **Pipeline Creation**: Expert in designing and implementing pipelines with GitHub Actions.
+  - **Custom Actions**: Skilled in creating custom GitHub Actions and reusable workflows for efficient CI/CD processes using typescript, jest and bash.
+
+- **Terraform & Infrastructure Automation**:
+  - **Terraform Modules**: Expert in creating reusable Terraform modules.
+  - **Product Development**: Proficient in building products using Terraform modules for scalable and consistent infrastructure deployment.
+
 - **Microcontrollers & Embedded Systems**:
   - **NXP**: Embedded programming and system design.
   - **PSoC5LP**: Custom embedded applications.
@@ -120,6 +128,8 @@ skills:
   - Security & Compliance with Vault, Veracode, SonarQube
   - Version Control with Git, GitHub, GitLab
   - Agile Development with Jira, Confluence
+  - GitHub Actions & CI/CD Pipelines
+  - Terraform Modules & Infrastructure Automation
   - Embedded Systems with NXP, PSoC5LP, Arduino, PIC, Raspberry Pi
 
 interests:
