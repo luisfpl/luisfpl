@@ -1,16 +1,17 @@
 # 👋 Hi there, I'm Luis Felipe Patino
 🏍️ _Passionate about technology, speed, and the cloud_ ☁️
 
-> I’m a DevOps Engineer, Cloud Architect, DevSecOps and AI Engineer specializing in AI-powered chatbots. With deep expertise in cloud solutions, DevOps, and software architecture, I thrive on building scalable, secure, and efficient systems. When I'm not architecting the future of technology, you'll find me racing superbikes and supermotos. I’m always exploring new technologies, whether in cloud, AI, or on the track.
+> I’m a DevOps Engineer, Cloud Architect, DevSecOps, and AI Engineer specializing in AI-powered chatbots. With deep expertise in cloud solutions, DevOps, software architecture, and microcontroller programming, I thrive on building scalable, secure, and efficient systems. When I'm not architecting the future of technology, you'll find me racing superbikes and supermotos. I’m always exploring new technologies, whether in cloud, AI, or on the track.
 
 ---
 
 ## 🚀 About Me
 
-As a technology leader, I’m responsible for cloud architecture and AI-driven solutions. My experience spans infrastructure automation, cloud-native architectures, and agile development practices. I’m passionate about integrating cutting-edge technologies to deliver robust and scalable solutions.
+I’m a technology leader responsible for cloud architecture and AI-driven solutions. My experience spans infrastructure automation, cloud-native architectures, and agile development practices. I’m passionate about integrating cutting-edge technologies to deliver robust and scalable solutions.
 
-### 🎓 Certifications
+### 🎓 Education & Certifications
 
+- **Electronic Engineer** - Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 - **AWS Solutions Architect – Professional**
 - **AWS Solutions Architect – Associate**
 - **AWS SysOps Administrator – Associate**
@@ -23,6 +24,9 @@ As a technology leader, I’m responsible for cloud architecture and AI-driven s
 
 ## 🛠️ Technical Skills
 
+- **Software Architecture**:
+  - **Hexagonal Architecture**: Designing maintainable and adaptable systems with a focus on separation of concerns and scalability.
+  
 - **Programming Languages**:
   - **Python**: Automation, AI scripting, and development.
   - **Bash**: System automation and orchestration.
@@ -40,9 +44,15 @@ As a technology leader, I’m responsible for cloud architecture and AI-driven s
   - **Agile Tools**: Proficient in using Jira, Confluence, GitHub, and JFrog to manage development cycles.
   - **AI Engineering**: Specialized in developing and deploying AI-driven chatbots.
 
+- **Microcontrollers & Embedded Systems**:
+  - **NXP**: Embedded programming and system design.
+  - **PSoC5LP**: Custom embedded applications.
+  - **Arduino & Raspberry Pi**: Prototyping and IoT development.
+  - **PIC**: Microcontroller programming for various applications.
+
 - **Languages**:
   - **Spanish** (Native)
-  - **English** (Professional)
+  - **English** (B2)
 
 ---
 
@@ -87,7 +97,7 @@ name: Luis Felipe Patino
 pronouns: He|Him
 
 profile: |
-  DevOps Engineer, Cloud Architect with a passion for high-performance motorcycles.
+  DevOps Engineer, Cloud Architect, and AI Engineer with a passion for high-performance motorcycles.
   Leading the way in cloud solutions and AI while always seeking the next big race on the track.
 
 skills:
@@ -96,11 +106,13 @@ skills:
   - DevOps & DevSecOps
   - CI/CD Pipelines
   - AI Engineering
+  - Hexagonal Architecture
   - Containerization with Docker & Kubernetes
   - Monitoring & Logging with Prometheus, Grafana, Datadog
   - Security & Compliance with Vault, Veracode, SonarQube
   - Version Control with Git, GitHub, GitLab
   - Agile Development with Jira, Confluence
+  - Embedded Systems with NXP, PSoC5LP, Arduino, PIC, Raspberry Pi
 
 interests:
   - Cloud Native Applications
