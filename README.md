@@ -26,6 +26,14 @@ I’m a technology leader responsible for cloud architecture and AI-driven solut
 
 - **Software Architecture**:
   - **Hexagonal Architecture**: Designing maintainable and adaptable systems with a focus on separation of concerns and scalability.
+  - **Microservices Architecture**: Building scalable, distributed systems that allow for independent deployment and development of services.
+  - **Event-Driven Architecture**: Implementing systems that react to events in real-time, improving scalability and responsiveness.
+  - **Domain-Driven Design (DDD)**: Structuring software to reflect complex business domains and ensuring that the software remains aligned with business needs.
+  - **Serverless Architecture**: Leveraging cloud services to build applications without managing the underlying infrastructure, focusing on event-driven and scalable solutions.
+  - **API-First Design**: Prioritizing API design in software projects to ensure that services are well-structured, documented, and easy to integrate.
+  - **Scalability & Performance Optimization**: Designing systems that can handle increasing loads effectively, with a focus on performance tuning and optimization.
+  - **Security Architecture**: Integrating security considerations into the design process, ensuring that systems are resilient to attacks and data breaches.
+  - **Resilience & Fault Tolerance**: Designing systems that can recover from failures gracefully and maintain functionality under stress.
   
 - **Programming Languages**:
   - **Python**: Automation, AI scripting, and development.
