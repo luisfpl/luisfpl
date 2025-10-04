@@ -1,142 +1,154 @@
 # 👋 Hi there, I'm Luis Felipe Patino
-🏍️ _Passionate about technology, speed, and the cloud_ ☁️
 
-> I’m a DevOps Engineer, Cloud Architect, DevSecOps, and AI Engineer specializing in AI-powered chatbots. With deep expertise in cloud solutions, DevOps, software architecture, and microcontroller programming, I thrive on building scalable, secure, and efficient systems. When I'm not architecting the future of technology, you'll find me racing superbikes and supermotos. I’m always exploring new technologies, whether in cloud, AI, or on the track.
+🏍️ *Passionate about technology, speed, and the cloud* ☁️⚡
+
+> DevOps Engineer • Cloud Architect • DevSecOps • AI Engineer
+> Specialized in **multi-agent systems (MCP)**, **Bedrock Agents**, and **AI-powered chatbots**.
+> I build **scalable, secure, and resilient systems** with cloud-native and AI-driven approaches.
+> Off the cloud, I race superbikes and supermotos — precision, speed, and resilience guide me both on the track and in tech.
 
 ---
 
-## 🚀 About Me
+## 🎓 Education & Certifications
 
-I’m a technology leader responsible for cloud architecture and AI-driven solutions. My experience spans infrastructure automation, cloud-native architectures, and agile development practices. I’m passionate about integrating cutting-edge technologies to deliver robust and scalable solutions.
+[![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![AWS SysOps Associate](https://img.shields.io/badge/AWS-SysOps_Associate-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform\&logoColor=white)]()
 
-### 🎓 Education & Certifications
-
-- **Electronic Engineer** - Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
-- **AWS Solutions Architect – Professional**
-- **AWS Solutions Architect – Associate**
-- **AWS SysOps Administrator – Associate**
-- **AWS Developer – Associate**
-- **AWS DevOps Engineer – Professional**
-- **AWS Cloud Practitioner**
-- **HashiCorp Certified: Terraform Associate**
+* **Electronic Engineer** – Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Software Architecture**:
-  - **Hexagonal Architecture**: Designing maintainable and adaptable systems with a focus on separation of concerns and scalability.
-  - **Microservices Architecture**: Building scalable, distributed systems that allow for independent deployment and development of services.
-  - **Event-Driven Architecture**: Implementing systems that react to events in real-time, improving scalability and responsiveness.
-  - **Domain-Driven Design (DDD)**: Structuring software to reflect complex business domains and ensuring that the software remains aligned with business needs.
-  - **Serverless Architecture**: Leveraging cloud services to build applications without managing the underlying infrastructure, focusing on event-driven and scalable solutions.
-  - **API-First Design**: Prioritizing API design in software projects to ensure that services are well-structured, documented, and easy to integrate.
-  - **Scalability & Performance Optimization**: Designing systems that can handle increasing loads effectively, with a focus on performance tuning and optimization.
-  - **Security Architecture**: Integrating security considerations into the design process, ensuring that systems are resilient to attacks and data breaches.
-  - **Resilience & Fault Tolerance**: Designing systems that can recover from failures gracefully and maintain functionality under stress.
-  
-- **Programming Languages**:
-  - **Python**: Automation, AI scripting, and development.
-  - **Bash**: System automation and orchestration.
-  - **JavaScript/Node.js**: Web development and API design.
-  - **Golang**: High-performance applications and microservices.
-  - **Terraform**: Infrastructure as code for scalable cloud solutions.
+### 🏗️ Architecture & Design
 
-- **Cloud & DevOps**:
-  - **Cloud Architecture**: Leading cloud solutions with a focus on AWS, including ECS Fargate, API Gateway, and more.
-  - **CI/CD**: Expertise in Jenkins, GitHub Actions, Codefresh, and implementing robust CI/CD pipelines.
-  - **Infrastructure as Code (IaC)**: Proficient with Terraform, AWS CloudFormation, and Ansible for managing infrastructure.
-  - **Containerization**: Extensive experience with Docker, Kubernetes, and orchestration using Helm, Istio, and Argo.
-  - **Monitoring & Logging**: Skilled with Prometheus, Grafana, Datadog, and ELK Stack (Elasticsearch, Logstash, Kibana).
-  - **Security & Compliance**: Implementing DevSecOps practices using Veracode, SonarQube, AWS WAF, and Vault for secrets management.
-  - **Agile Tools**: Proficient in using Jira, Confluence, GitHub, and JFrog to manage development cycles.
-  - **AI Engineering**: Specialized in developing and deploying AI-driven chatbots.
+[![Hexagonal](https://img.shields.io/badge/Architecture-Hexagonal-blue)]()
+[![DDD](https://img.shields.io/badge/Design-DDD-orange)]()
+[![Microservices](https://img.shields.io/badge/Architecture-Microservices-blueviolet)]()
+[![Serverless](https://img.shields.io/badge/Architecture-Serverless-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![Event Driven](https://img.shields.io/badge/Pattern-Event_Driven-lightgrey)]()
 
-- **GitHub Actions & CI/CD**:
-  - **Pipeline Creation**: Expert in designing and implementing pipelines with GitHub Actions.
-  - **Custom Actions**: Skilled in creating custom GitHub Actions and reusable workflows for efficient CI/CD processes using typescript, jest and bash.
+* Scalable & resilient systems
+* Performance optimization
+* Security & compliance architecture
+* API-first design
 
-- **Terraform & Infrastructure Automation**:
-  - **Terraform Modules**: Expert in creating reusable Terraform modules.
-  - **Product Development**: Proficient in building products using Terraform modules for scalable and consistent infrastructure deployment.
+---
 
-- **Microcontrollers & Embedded Systems**:
-  - **NXP**: Embedded programming and system design.
-  - **PSoC5LP**: Custom embedded applications.
-  - **Arduino & Raspberry Pi**: Prototyping and IoT development.
-  - **PIC**: Microcontroller programming for various applications.
+### 💻 Programming & IaC
 
-- **Languages**:
-  - **Spanish** (Native)
-  - **English** (B2)
+[![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python\&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go\&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript\&logoColor=black)]()
+[![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js\&logoColor=white)]()
+[![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA?logo=terraform\&logoColor=white)]()
+[![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash\&logoColor=white)]()
+
+---
+
+### ☁️ Cloud & DevOps
+
+[![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws\&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes\&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker\&logoColor=white)]()
+[![Helm](https://img.shields.io/badge/Orchestration-Helm-0F1689?logo=helm\&logoColor=white)]()
+[![ArgoCD](https://img.shields.io/badge/CD-ArgoCD-EF7B4D?logo=argo\&logoColor=white)]()
+[![Istio](https://img.shields.io/badge/ServiceMesh-Istio-466BB0?logo=istio\&logoColor=white)]()
+
+* CI/CD with GitHub Actions, Jenkins, Codefresh
+* Infrastructure Automation with Terraform & CloudFormation
+* Monitoring: Prometheus, Grafana, Datadog, ELK
+* Security: Vault, SonarQube, Veracode, AWS WAF
+
+---
+
+### 🤖 AI & Multi-Agent Systems
+
+[![AI](https://img.shields.io/badge/AI-Generative_AI-FF6F00?logo=openai\&logoColor=white)]()
+[![MCP](https://img.shields.io/badge/Multi--Agent-MCP-green)]()
+[![Agents](https://img.shields.io/badge/Bedrock-Agents-00A3E0?logo=amazon-aws\&logoColor=white)]()
+[![Elasticsearch](https://img.shields.io/badge/Search-Elasticsearch-005571?logo=elasticsearch\&logoColor=white)]()
+
+* **MCP (Multi-Agent Control Plane)**: Orchestrating AI agents for enterprise workflows
+* **Bedrock Agents**: Automating tasks with generative AI
+* **Knowledge Bases**: S3 + Elasticsearch for enterprise search
+* **AI Chatbots**: LLM-powered conversational systems
+
+---
+
+### ⚡ Embedded Systems
+
+[![Arduino](https://img.shields.io/badge/IoT-Arduino-00979D?logo=arduino\&logoColor=white)]()
+[![Raspberry Pi](https://img.shields.io/badge/IoT-RaspberryPi-A22846?logo=raspberrypi\&logoColor=white)]()
+
+* NXP, PSoC5LP, PIC
+* IoT prototyping and embedded apps
 
 ---
 
 ## 🏁 Passion for Motorcycles
 
-When I’m not in the cloud, you’ll find me on a motorcycle, exploring the world of superbikes and supermotos. For me, speed and precision are as crucial on the track as they are in technology.
+Outside the cloud, I chase speed and precision on the racetrack 🏍️.
+Racing **superbikes** and **supermotos** inspires the same **resilience, adaptability, and sharp reflexes** I apply in engineering.
 
 ---
 
 ## 📈 Featured Projects
 
-Throughout my career, I’ve worked on a variety of exciting projects ranging from process automation to implementing complex cloud architectures and AI solutions. Some of my featured projects include:
-
-- **[Infrastructure as Code Project](#)**: Implemented a complete IaC solution using Terraform and AWS to automate cloud infrastructure.
-- **[Advanced CI/CD Pipeline](#)**: Created a robust CI/CD pipeline with Codefresh, GitHub Actions, and ArgoCD for continuous delivery in a multi-cloud environment.
-
----
-
-## 🌐 Let’s Connect
-
-I’m always open to new opportunities, collaborations, or just chatting about technology.
-
-- [LinkedIn](https://www.linkedin.com/in/luis-felipepl/) | [Email](mailto:luisfelipepatino@outlook.com)
+* **Multi-Agent Bedrock System** → Orchestrated AI agents (MCP) with AWS Bedrock for enterprise automation.
+* **Terraform Product Modules** → Reusable Terraform modules powering enterprise infrastructure.
+* **Advanced CI/CD Pipelines** → Multi-cloud pipelines with GitHub Actions & ArgoCD.
+* **AI Chatbot Platform** → Generative AI chatbot with Bedrock Agents + knowledge base (S3 + Elasticsearch).
 
 ---
 
 ## 🧠 Always Learning
 
-I’m a lifelong learner, constantly seeking out the latest trends and technologies to enhance my skills and deliver more efficient solutions. Currently, I’m focusing on:
+* **Multi-Agent Systems (MCP)** & Bedrock Agents
+* **Kubernetes Ecosystem** (Helm, Istio, Vault, Argo)
+* **DevSecOps Automation** in CI/CD pipelines
+* **Generative AI for Enterprise**
 
-- **Kubernetes Ecosystem**: Building robust environments using Helm, Istio, Vault, and Argo.
-- **AI and Machine Learning**: Enhancing AI-driven solutions for better user experiences.
-- **DevSecOps**: Deepening my expertise in security automation and compliance in CI/CD pipelines.
+---
+
+## 🌐 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Felipe_Patino-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luis-felipepl/)
+[![Email](https://img.shields.io/badge/Email-luisfelipepatino%40outlook.com-red?logo=gmail\&logoColor=white)](mailto:luisfelipepatino@outlook.com)
 
 ---
 
 ## 🏍️ A Little More About Me
 
 ```yaml
----
 name: Luis Felipe Patino
-pronouns: He|Him
+pronouns: He/Him
 
-profile: |
-  DevOps Engineer, Cloud Architect, and AI Engineer with a passion for high-performance motorcycles.
-  Leading the way in cloud solutions and AI while always seeking the next big race on the track.
+profile: >
+  Cloud Architect, DevOps & AI Engineer, expert in MCP (multi-agent control planes) 
+  and Bedrock Agents. Passionate about speed in both cloud deployments and racing tracks.
 
 skills:
-  - Cloud Architecture
+  - Cloud Architecture (AWS)
   - Infrastructure Automation
   - DevOps & DevSecOps
-  - CI/CD Pipelines
-  - AI Engineering
-  - Hexagonal Architecture
-  - Containerization with Docker & Kubernetes
-  - Monitoring & Logging with Prometheus, Grafana, Datadog
-  - Security & Compliance with Vault, Veracode, SonarQube
-  - Version Control with Git, GitHub, GitLab
-  - Agile Development with Jira, Confluence
-  - GitHub Actions & CI/CD Pipelines
-  - Terraform Modules & Infrastructure Automation
-  - Embedded Systems with NXP, PSoC5LP, Arduino, PIC, Raspberry Pi
+  - CI/CD Pipelines (GitHub Actions, Argo)
+  - AI Agents & MCP
+  - Terraform Modules
+  - Kubernetes Ecosystem
+  - Security & Compliance (Vault, SonarQube, Veracode)
+  - Monitoring & Logging (Prometheus, Grafana, Datadog)
+  - Embedded Systems (NXP, PSoC5LP, Arduino, PIC, Raspberry Pi)
 
 interests:
-  - Cloud Native Applications
-  - Kubernetes Ecosystem
-  - AI & Machine Learning
+  - Multi-Agent Systems
+  - Generative AI
+  - Cloud-Native Innovation
   - Open Source
   - Superbikes & Supermotos
-
 ```
