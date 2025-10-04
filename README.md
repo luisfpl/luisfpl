@@ -10,15 +10,23 @@
 ---
 ## 🎓 Education & Certifications
 
-- ![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps_Associate-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazon-aws&logoColor=white)  
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)  
+### 🟢 Foundational
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-4B4B4B?logo=amazon-aws&logoColor=white)  
+- ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-4B4B4B?logo=amazon-aws&logoColor=white)  
 
+### 🔵 Associate
+- ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-2D6DB5?logo=amazon-aws&logoColor=white)  
+- ![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps_Associate-2D6DB5?logo=amazon-aws&logoColor=white)  
+- ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-2D6DB5?logo=amazon-aws&logoColor=white)  
+
+### 🟦 Professional
+- ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-00A1C9?logo=amazon-aws&logoColor=white)  
+- ![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-00A1C9?logo=amazon-aws&logoColor=white)  
+
+### 🟣 Specialty
+- ![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-5A2D82?logo=amazon-aws&logoColor=white)  
+
+### ⚙️ Other
 - ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white)  
 - ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?logo=github&logoColor=white)  
 
