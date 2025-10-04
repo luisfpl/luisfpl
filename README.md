@@ -8,16 +8,20 @@
 > Off the cloud, I race superbikes and supermotos — precision, speed, and resilience guide me both on the track and in tech.
 
 ---
-
 ## 🎓 Education & Certifications
 
-[![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![AWS SysOps Associate](https://img.shields.io/badge/AWS-SysOps_Associate-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform\&logoColor=white)]()
+- ![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps_Associate-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-FF9900?logo=amazon-aws&logoColor=white)  
+- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?logo=amazon-aws&logoColor=white)  
+
+- ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white)  
+- ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?logo=github&logoColor=white)  
+
 
 * **Electronic Engineer** – Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
