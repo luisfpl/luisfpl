@@ -2,7 +2,7 @@
 
 # Luis Felipe Patiño
 
-### Cloud Architect · Solutions Architect · Technology & Engineering Leader
+### Cloud Architect · Solutions Architect · DevOps Engineer · Technology & Engineering Leader
 
 **AWS Golden Jacket**
 
