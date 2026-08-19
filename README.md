@@ -1,166 +1,884 @@
-# 👋 Hi there, I'm Luis Felipe Patino
+<div align="center">
 
-🏍️ *Passionate about technology, speed, and the cloud* ☁️⚡
+# Luis Felipe Patiño
 
-> DevOps Engineer • Cloud Architect • DevSecOps • AI Engineer
-> Specialized in **multi-agent systems (MCP)**, **Bedrock Agents**, and **AI-powered chatbots**.
-> I build **scalable, secure, and resilient systems** with cloud-native and AI-driven approaches.
-> Off the cloud, I race superbikes and supermotos — precision, speed, and resilience guide me both on the track and in tech.
+### Cloud Architect · Solutions Architect · Technology & Engineering Leader
 
----
-## 🎓 Education & Certifications
+**AWS Golden Jacket**
 
-### 🟢 Foundational
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-4B4B4B?logo=amazon-aws&logoColor=white)  
-- ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-4B4B4B?logo=amazon-aws&logoColor=white)  
+Bogotá, Colombia
 
-### 🔵 Associate
-- ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-2D6DB5?logo=amazon-aws&logoColor=white)  
-- ![AWS SysOps Administrator Associate](https://img.shields.io/badge/AWS-SysOps_Associate-2D6DB5?logo=amazon-aws&logoColor=white)  
-- ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer_Associate-2D6DB5?logo=amazon-aws&logoColor=white)  
+<a href="https://linkedin.com/in/luis-felipepl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:felipephat@hotmail.com"><img src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 
-### 🟦 Professional
-- ![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-00A1C9?logo=amazon-aws&logoColor=white)  
-- ![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-00A1C9?logo=amazon-aws&logoColor=white)  
+<br>
 
-### 🟣 Specialty
-- ![AWS Security Specialty](https://img.shields.io/badge/AWS-Security_Specialty-5A2D82?logo=amazon-aws&logoColor=white)  
+`BUSINESS` → `STRATEGY` → `ARCHITECTURE` → `PLATFORM` → `ENGINEERING` → `PRODUCTION`
 
-### ⚙️ Other
-- ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white)  
-- ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?logo=github&logoColor=white)  
-
-
-* **Electronic Engineer** – Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+```console
+$ profile --status
 
-### 🏗️ Architecture & Design
-
-[![Hexagonal](https://img.shields.io/badge/Architecture-Hexagonal-blue)]()
-[![DDD](https://img.shields.io/badge/Design-DDD-orange)]()
-[![Microservices](https://img.shields.io/badge/Architecture-Microservices-blueviolet)]()
-[![Serverless](https://img.shields.io/badge/Architecture-Serverless-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![Event Driven](https://img.shields.io/badge/Pattern-Event_Driven-lightgrey)]()
-
-* Scalable & resilient systems
-* Performance optimization
-* Security & compliance architecture
-* API-first design
+BUSINESS ALIGNMENT       ● ACTIVE
+TECHNOLOGY STRATEGY      ● ACTIVE
+ARCHITECTURE             ● ACTIVE
+CLOUD & PLATFORM         ● ACTIVE
+DEVOPS / DELIVERY        ● ACTIVE
+AI SYSTEMS               ● ACTIVE
+TECHNICAL LEADERSHIP     ● ACTIVE
+```
 
 ---
 
-### 💻 Programming & IaC
+## `00 / whoami`
 
-[![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python\&logoColor=white)]()
-[![Go](https://img.shields.io/badge/Code-Go-00ADD8?logo=go\&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript\&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js\&logoColor=white)]()
-[![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA?logo=terraform\&logoColor=white)]()
-[![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash\&logoColor=white)]()
+```console
+$ whoami --verbose
 
----
+8+ years working across architecture, DevOps, cloud engineering,
+and technology leadership — often across several of those areas at the same time.
 
-### ☁️ Cloud & DevOps
+✓ designed reference architectures → and helped teams implement them
+✓ defined engineering standards → and automated them through platforms and pipelines
+✓ led technical teams → while staying close to architecture and production
+✓ worked with business and technology leaders → turning priorities into technical roadmaps
+✓ connected architecture, security, engineering, operations, and delivery
 
-[![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws\&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes\&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker\&logoColor=white)]()
-[![Helm](https://img.shields.io/badge/Orchestration-Helm-0F1689?logo=helm\&logoColor=white)]()
-[![ArgoCD](https://img.shields.io/badge/CD-ArgoCD-EF7B4D?logo=argo\&logoColor=white)]()
-[![Istio](https://img.shields.io/badge/ServiceMesh-Istio-466BB0?logo=istio\&logoColor=white)]()
+I work at the intersection of business, architecture, and engineering.
 
-* CI/CD with GitHub Actions, Jenkins, Codefresh
-* Infrastructure Automation with Terraform & CloudFormation
-* Monitoring: Prometheus, Grafana, Datadog, ELK
-* Security: Vault, SonarQube, Veracode, AWS WAF
+My role is to understand what the organization needs, translate that into
+technology decisions, align teams around those decisions, and make sure
+the architecture can actually be delivered and operated.
+```
 
----
+```console
+$ cat industries.txt
 
-### 🤖 AI & Multi-Agent Systems
+banking      insurance      healthcare      education      real estate
 
-[![AI](https://img.shields.io/badge/AI-Generative_AI-FF6F00?logo=openai\&logoColor=white)]()
-[![MCP](https://img.shields.io/badge/Multi--Agent-MCP-green)]()
-[![Agents](https://img.shields.io/badge/Bedrock-Agents-00A3E0?logo=amazon-aws\&logoColor=white)]()
-[![Elasticsearch](https://img.shields.io/badge/Search-Elasticsearch-005571?logo=elasticsearch\&logoColor=white)]()
-
-* **MCP (Multi-Agent Control Plane)**: Orchestrating AI agents for enterprise workflows
-* **Bedrock Agents**: Automating tasks with generative AI
-* **Knowledge Bases**: S3 + Elasticsearch for enterprise search
-* **AI Chatbots**: LLM-powered conversational systems
+# same architecture principles, different business,
+# regulatory, operational, and risk constraints.
+```
 
 ---
 
-### ⚡ Embedded Systems
-
-[![Arduino](https://img.shields.io/badge/IoT-Arduino-00979D?logo=arduino\&logoColor=white)]()
-[![Raspberry Pi](https://img.shields.io/badge/IoT-RaspberryPi-A22846?logo=raspberrypi\&logoColor=white)]()
-
-* NXP, PSoC5LP, PIC
-* IoT prototyping and embedded apps
-
----
-
-## 🏁 Passion for Motorcycles
-
-Outside the cloud, I chase speed and precision on the racetrack 🏍️.
-Racing **superbikes** and **supermotos** inspires the same **resilience, adaptability, and sharp reflexes** I apply in engineering.
-
----
-
-## 📈 Featured Projects
-
-* **Multi-Agent Bedrock System** → Orchestrated AI agents (MCP) with AWS Bedrock for enterprise automation.
-* **Terraform Product Modules** → Reusable Terraform modules powering enterprise infrastructure.
-* **Advanced CI/CD Pipelines** → Multi-cloud pipelines with GitHub Actions & ArgoCD.
-* **AI Chatbot Platform** → Generative AI chatbot with Bedrock Agents + knowledge base (S3 + Elasticsearch).
-
----
-
-## 🧠 Always Learning
-
-* **Multi-Agent Systems (MCP)** & Bedrock Agents
-* **Kubernetes Ecosystem** (Helm, Istio, Vault, Argo)
-* **DevSecOps Automation** in CI/CD pipelines
-* **Generative AI for Enterprise**
-
----
-
-## 🌐 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis_Felipe_Patino-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luis-felipepl/)
-[![Email](https://img.shields.io/badge/Email-luisfelipepatino%40outlook.com-red?logo=gmail\&logoColor=white)](mailto:luisfelipepatino@outlook.com)
-
----
-
-## 🏍️ A Little More About Me
+## `01 / strategy`
 
 ```yaml
-name: Luis Felipe Patino
-pronouns: He/Him
+business_to_technology:
 
-profile: >
-  Cloud Architect, DevOps & AI Engineer, expert in MCP (multi-agent control planes) 
-  and Bedrock Agents. Passionate about speed in both cloud deployments and racing tracks.
+  inputs:
+    - business_objectives
+    - customer_needs
+    - regulatory_requirements
+    - risk
+    - cost
+    - operational_constraints
 
-skills:
-  - Cloud Architecture (AWS)
-  - Infrastructure Automation
-  - DevOps & DevSecOps
-  - CI/CD Pipelines (GitHub Actions, Argo)
-  - AI Agents & MCP
-  - Terraform Modules
-  - Kubernetes Ecosystem
-  - Security & Compliance (Vault, SonarQube, Veracode)
-  - Monitoring & Logging (Prometheus, Grafana, Datadog)
-  - Embedded Systems (NXP, PSoC5LP, Arduino, PIC, Raspberry Pi)
+  decisions:
+    - technology_strategy
+    - architecture_direction
+    - modernization_priorities
+    - platform_capabilities
+    - cloud_adoption
+    - engineering_standards
 
-interests:
-  - Multi-Agent Systems
-  - Generative AI
-  - Cloud-Native Innovation
-  - Open Source
-  - Superbikes & Supermotos
+  outcomes:
+    - faster_delivery
+    - scalable_platforms
+    - controlled_risk
+    - operational_efficiency
+    - sustainable_architecture
 ```
+
+### From strategy to production
+
+```mermaid
+flowchart LR
+    B[Business] --> S[Technology Strategy]
+    S --> A[Architecture]
+    A --> P[Platform & Governance]
+    P --> E[Engineering]
+    E --> PR[Production]
+
+    A -. feedback .-> B
+    PR -. operational feedback .-> S
+```
+
+Technology strategy is not only about choosing technologies.
+
+It means understanding where the business is going, identifying the capabilities
+required to support that direction, and making architecture decisions that balance
+delivery speed, risk, cost, scalability, and operational complexity.
+
+---
+
+## `02 / decision-making`
+
+```console
+$ ./architecture --trade-offs
+
+       resilience ←────────────→ cost
+            speed ←────────────→ control
+         autonomy ←────────────→ standardization
+       complexity ←────────────→ flexibility
+     consistency ←────────────→ availability
+     build        ←────────────→ buy
+```
+
+Most architecture decisions come down to trade-offs.
+
+My job is to make those trade-offs visible, evaluate them within the business
+and engineering context, and help teams choose a direction they can defend,
+implement, and operate.
+
+```yaml
+architecture_decisions:
+  consider:
+    - business_value
+    - time_to_market
+    - security
+    - resilience
+    - scalability
+    - performance
+    - cost
+    - operability
+    - team_autonomy
+    - organizational_complexity
+
+  documented_as:
+    - ADRs
+    - reference_architectures
+    - technology_standards
+    - implementation_patterns
+```
+
+---
+
+## `03 / leadership`
+
+```yaml
+leadership:
+
+  scope:
+    - architecture
+    - cloud_engineering
+    - devops
+    - platform_engineering
+    - security_architecture
+    - technical_delivery
+
+  responsibilities:
+    - define_technical_direction
+    - lead_architecture_decisions
+    - align_business_and_technology
+    - coordinate_cross_functional_teams
+    - prioritize_technical_initiatives
+    - mentor_engineers_and_architects
+    - remove_delivery_blockers
+    - drive_architecture_adoption
+
+stakeholders:
+  - business
+  - product
+  - engineering
+  - security
+  - operations
+  - infrastructure
+  - finance
+
+team_models:
+  - tribes_and_squads
+  - cross_functional_teams
+  - agile_at_scale
+
+enablement:
+  - architecture_sessions
+  - technical_mentoring
+  - knowledge_transfer
+  - reference_implementations
+  - reusable_platform_capabilities
+```
+
+I prefer architecture close to delivery.
+
+That means participating in the decisions that matter, helping teams solve
+complex problems, understanding operational consequences, and keeping
+architecture connected to business priorities.
+
+---
+
+## `04 / architecture`
+
+```yaml
+distributed_systems:
+
+  architecture:
+    - microservices
+    - event_driven
+    - serverless
+    - distributed_systems
+
+  resilience:
+    - circuit_breakers
+    - bulkheads
+    - retries_with_backoff
+    - graceful_degradation
+    - failure_isolation
+
+  consistency:
+    model: eventual
+    idempotency: enforced
+
+  interfaces:
+    contracts: explicit
+    APIs: first_class
+
+application_architecture:
+
+  patterns:
+    - domain_driven_design
+    - hexagonal_architecture
+    - cqrs
+    - event_driven_architecture
+    - api_first
+
+  frontend:
+    - SPA
+    - BFF
+    - micro_frontends_when_justified
+
+disaster_recovery:
+
+  strategies:
+    - multi_az
+    - multi_region
+
+  objectives:
+    - RTO
+    - RPO
+
+architecture_governance:
+
+  mechanisms:
+    - ADRs
+    - reference_architectures
+    - reusable_patterns
+    - architecture_reviews
+    - automated_controls
+```
+
+<p>
+<img src="https://img.shields.io/badge/Microservices-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Distributed_Systems-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Event_Driven-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/DDD-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Hexagonal-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/CQRS-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/API_First-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/BFF-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Serverless-FF9900?style=flat-square&logo=awslambda&logoColor=white">
+<img src="https://img.shields.io/badge/Well_Architected-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
+</p>
+
+---
+
+## `05 / cloud`
+
+```console
+$ cloud architecture --provider aws
+
+MULTI ACCOUNT        organization-level governance
+MULTI REGION         resilience and disaster recovery
+NETWORKING           private connectivity and segmentation
+SECURITY             identity, encryption and perimeter controls
+COMPUTE              containers, serverless and managed platforms
+DATA                 relational, NoSQL and distributed caching
+INTEGRATION          APIs, events, queues and streaming
+OBSERVABILITY        metrics, logs, traces and operational visibility
+```
+
+```yaml
+aws:
+
+  compute:
+    - EKS
+    - ECS
+    - Lambda
+
+  networking:
+    - VPC
+    - Transit_Gateway
+    - Load_Balancers
+    - PrivateLink
+    - CloudFront
+    - Route53
+    - API_Gateway
+
+  security:
+    - IAM
+    - Cognito
+    - WAF
+    - KMS
+    - Secrets_Manager
+    - Security_Hub
+    - GuardDuty
+
+  data:
+    - Aurora
+    - RDS
+    - DynamoDB
+    - S3
+    - ElastiCache
+
+  integration:
+    - EventBridge
+    - SNS
+    - SQS
+    - Kafka
+
+  infrastructure:
+    - Terraform
+    - CloudFormation
+```
+
+Cloud architecture is not just selecting AWS services.
+
+The decisions that matter are boundaries, ownership, failure modes, identity,
+networking, data, deployment models, operational complexity, cost, and how the
+platform evolves as the organization grows.
+
+---
+
+## `06 / governance-as-code`
+
+### Architecture should be consumable
+
+```hcl
+module "platform_governance" {
+
+  source  = "org/platform/aws"
+  version = "~> 3.0"
+
+  identity = {
+    permission_boundaries = true
+    least_privilege       = true
+  }
+
+  network = {
+    segmentation = "mandatory"
+    egress       = "controlled"
+  }
+
+  encryption = {
+    at_rest    = true
+    in_transit = true
+    kms        = "cmk"
+  }
+
+  logging = {
+    centralized = true
+    retention   = "regulatory"
+  }
+
+  threat_detection = {
+    enabled = true
+  }
+}
+```
+
+```yaml
+# .github/workflows/paved-road.yml
+
+name: paved-road
+
+on:
+  - push
+  - pull_request
+
+jobs:
+
+  quality:
+    uses: org/.github/.github/workflows/sonar.yml@v2
+
+  dependencies:
+    uses: org/.github/.github/workflows/sca.yml@v2
+
+  iac-security:
+    uses: org/.github/.github/workflows/tf-security.yml@v2
+
+  sast:
+    uses: org/.github/.github/workflows/veracode.yml@v2
+
+  deploy:
+    uses: org/.github/.github/workflows/argo-sync.yml@v2
+```
+
+Governance works better when teams do not have to manually interpret it.
+
+Security, architecture, compliance, and engineering standards can become part
+of reusable Terraform modules, CI/CD pipelines, templates, and platform capabilities.
+
+```mermaid
+flowchart LR
+    STD[Architecture Standards] --> MOD[Reusable Modules]
+    STD --> PIPE[Reusable Pipelines]
+    STD --> TPL[Templates]
+    STD --> PLAT[Platform Services]
+
+    MOD --> TEAM[Engineering Teams]
+    PIPE --> TEAM
+    TPL --> TEAM
+    PLAT --> TEAM
+
+    TEAM --> PROD[Production]
+```
+
+<p>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Policy_as_Code-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/DevSecOps-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Reusable_Pipelines-4A5568?style=flat-square">
+</p>
+
+---
+
+## `07 / platform-engineering`
+
+```console
+$ kubectl get platform -A
+
+NAMESPACE      CAPABILITY                STATUS    PURPOSE
+landing-zone   multi-account-aws         Running   organization governance
+delivery       gitops-argocd             Running   declarative delivery
+delivery       helm-golden-paths         Running   reusable deployment patterns
+portal         backstage-idp             Running   developer self-service
+mesh           istio                     Running   traffic and mTLS
+observability  prometheus-grafana-elk    Running   metrics and logs
+security       vault                     Running   secrets and dynamic credentials
+```
+
+Platform engineering turns architecture decisions into capabilities that
+engineering teams can consume.
+
+```mermaid
+flowchart TB
+    DEV[Engineering Teams]
+
+    DEV --> IDP[Developer Platform]
+
+    IDP --> CICD[CI/CD]
+    IDP --> IAC[Infrastructure as Code]
+    IDP --> OBS[Observability]
+    IDP --> SEC[Security Controls]
+    IDP --> K8S[Kubernetes]
+    IDP --> CLOUD[Cloud Services]
+
+    CICD --> PROD[Production]
+    IAC --> PROD
+    K8S --> PROD
+    CLOUD --> PROD
+```
+
+The goal is to reduce repeated work and give teams a standard path to build,
+deploy, secure, observe, and operate their services.
+
+<p>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">
+<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white">
+<img src="https://img.shields.io/badge/Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black">
+<img src="https://img.shields.io/badge/GitOps-4A5568?style=flat-square">
+</p>
+
+---
+
+## `08 / delivery`
+
+```yaml
+software_delivery:
+
+  infrastructure:
+    model: infrastructure_as_code
+
+  pipelines:
+    - reusable_workflows
+    - automated_testing
+    - security_scanning
+    - artifact_management
+    - controlled_promotion
+    - deployment_automation
+
+  gitops:
+    desired_state: git
+    deployment: declarative
+    reconciliation: automated
+
+  quality:
+    - static_analysis
+    - dependency_scanning
+    - infrastructure_scanning
+    - performance_testing
+    - observability
+
+  principles:
+    - repeatability
+    - traceability
+    - automation
+    - secure_by_default
+    - self_service
+```
+
+Good architecture should improve delivery, not make it harder.
+
+Standards are more useful when they are implemented as something teams can
+directly consume: a module, pipeline, API, template, golden path, or platform service.
+
+---
+
+## `09 / ai-systems`
+
+```console
+$ ai-platform --production
+
+FOUNDATION MODELS      Amazon Bedrock
+RETRIEVAL              RAG / Knowledge Bases
+AGENTS                 tool-enabled workflows
+INTEGRATION            MCP / APIs
+SECURITY               scoped permissions
+GUARDRAILS             enabled
+EVALUATION             automated
+OBSERVABILITY          enabled
+HUMAN APPROVAL         where required
+```
+
+```yaml
+generative_ai:
+
+  platforms:
+    - Amazon_Bedrock
+
+  patterns:
+    - RAG
+    - knowledge_bases
+    - agents
+    - tool_use
+    - MCP
+
+  architecture:
+    - model_abstraction
+    - controlled_context
+    - scoped_tool_access
+    - human_in_the_loop
+    - auditability
+
+  production:
+    - evaluation
+    - guardrails
+    - observability
+    - security
+    - versioned_prompts_and_specs
+    - automated_delivery
+```
+
+I approach AI systems as production systems.
+
+The model is one component. The architecture around it still needs security,
+access control, observability, evaluation, deployment, integration, governance,
+and clear operational ownership.
+
+```mermaid
+flowchart LR
+    APP[Application] --> API[AI Service]
+    API --> RET[RAG / Knowledge Base]
+    API --> MODEL[Foundation Model]
+    API --> AGENT[Agent]
+
+    AGENT --> MCP[MCP / Tools]
+    MCP --> SYS[Enterprise Systems]
+
+    API --> GR[Guardrails]
+    API --> OBS[Observability]
+    API --> EVAL[Evaluation]
+```
+
+<p>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Generative_AI-B54708?style=flat-square">
+<img src="https://img.shields.io/badge/AI_Agents-1B4F8C?style=flat-square">
+<img src="https://img.shields.io/badge/MCP-D97757?style=flat-square">
+<img src="https://img.shields.io/badge/RAG-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Knowledge_Bases-4A5568?style=flat-square">
+</p>
+
+---
+
+## `10 / operating-model`
+
+```yaml
+architecture_operating_model:
+
+  direction:
+    owned_by:
+      - architecture
+      - engineering_leadership
+      - business_stakeholders
+
+  execution:
+    owned_by:
+      - engineering_teams
+      - platform_teams
+
+  controls:
+    implemented_through:
+      - reusable_infrastructure
+      - pipelines
+      - policy_as_code
+      - platform_capabilities
+
+  feedback:
+    sources:
+      - production
+      - operations
+      - engineering
+      - security
+      - business
+```
+
+```mermaid
+flowchart LR
+    BUSINESS[Business Priorities]
+    ARCH[Architecture]
+    PLATFORM[Platform]
+    TEAMS[Engineering Teams]
+    PROD[Production]
+
+    BUSINESS --> ARCH
+    ARCH --> PLATFORM
+    ARCH --> TEAMS
+    PLATFORM --> TEAMS
+    TEAMS --> PROD
+
+    PROD -. feedback .-> ARCH
+    TEAMS -. feedback .-> ARCH
+    BUSINESS -. priorities .-> ARCH
+```
+
+Architecture should provide direction without becoming a bottleneck.
+
+The objective is to create enough standardization to reduce risk and duplicated
+effort while preserving the autonomy teams need to deliver.
+
+---
+
+## `11 / impact`
+
+```console
+$ impact --areas
+
+MODERNIZATION             legacy → cloud-native
+PLATFORM                  reusable engineering capabilities
+GOVERNANCE                standards → automated controls
+SECURITY                  security integrated into delivery
+DEVOPS                    repeatable and automated delivery
+CLOUD                     scalable and resilient architectures
+AI                        production-ready AI systems
+ENABLEMENT                 teams able to move independently
+TIME TO MARKET             less friction in the delivery path
+```
+
+The outcome I care about is not the number of architecture documents produced.
+
+It is whether teams can deliver better systems, faster, with the right level
+of security, resilience, governance, and operational control.
+
+---
+
+## `12 / certifications AWS Golden Jacket`
+
+```console
+$ aws-certs list --status active
+
+LEVEL          CERTIFICATION
+─────────────  ────────────────────────────────────────────
+professional   Solutions Architect
+professional   DevOps Engineer
+professional   Generative AI Developer
+
+specialty      Advanced Networking
+specialty      Security
+specialty      Machine Learning
+
+associate      Solutions Architect
+associate      Developer
+associate      CloudOps Engineer
+associate      SysOps Administrator
+associate      Data Engineer
+associate      Machine Learning Engineer
+
+foundational   Cloud Practitioner
+foundational   AI Practitioner
+
+
+$ certs list --other
+
+hashicorp      Terraform Associate
+github         GitHub Foundations
+````
+
+<div align="center">
+
+### AWS Professional
+
+<img src="https://img.shields.io/badge/Solutions_Architect-Professional-00A1C9?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/DevOps_Engineer-Professional-00A1C9?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Generative_AI_Developer-Professional-00A1C9?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+
+### AWS Specialty
+
+<img src="https://img.shields.io/badge/Advanced_Networking-Specialty-5A2D82?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Security-Specialty-5A2D82?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-Specialty-5A2D82?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+
+### AWS Associate
+
+<img src="https://img.shields.io/badge/Solutions_Architect-Associate-2D6DB5?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Developer-Associate-2D6DB5?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/CloudOps_Engineer-Associate-2D6DB5?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/SysOps_Administrator-Associate-2D6DB5?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Engineer-Associate-2D6DB5?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning_Engineer-Associate-2D6DB5?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+
+### AWS Foundational
+
+<img src="https://img.shields.io/badge/Cloud_Practitioner-Foundational-4B4B4B?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/AI_Practitioner-Foundational-4B4B4B?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+
+### Other Certifications
+
+<img src="https://img.shields.io/badge/Terraform-Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+```
+---
+
+## `13 / toolchain`
+
+<div align="center">
+
+### Cloud
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+
+### Containers & Orchestration
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white">
+<img src="https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white">
+<img src="https://img.shields.io/badge/EKS-232F3E?style=flat-square&logo=amazoneks&logoColor=FF9900">
+<img src="https://img.shields.io/badge/ECS-232F3E?style=flat-square&logo=amazonecs&logoColor=FF9900">
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white">
+
+### Infrastructure as Code
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/Terragrunt-2E7D32?style=flat-square">
+<img src="https://img.shields.io/badge/Terratest-00ADD8?style=flat-square&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/CloudFormation-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
+
+### CI/CD & GitOps
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/CodeFresh-06B2D0?style=flat-square">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+
+### Platform
+
+<img src="https://img.shields.io/badge/JFrog_Artifactory-41BF47?style=flat-square&logo=jfrog&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_ECR-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Backstage-9BF0E1?style=flat-square&logo=backstage&logoColor=black">
+
+### Observability
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white">
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white">
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white">
+
+### Performance & Testing
+
+<img src="https://img.shields.io/badge/Grafana_k6-7D64FF?style=flat-square&logo=k6&logoColor=white">
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white">
+
+### Security & Quality
+
+<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=FFEC6E">
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white">
+<img src="https://img.shields.io/badge/Veracode-00B2A9?style=flat-square">
+<img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
+
+### Data & Messaging
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/DynamoDB-232F3E?style=flat-square&logo=amazondynamodb&logoColor=4053D6">
+
+### Languages & Runtimes
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+
+</div>
+
+---
+
+## `14 / education`
+
+```console
+$ cat ~/.education
+
+M.Sc.  Information and Communication Sciences
+B.Sc.  Electronic Engineering
+       Universidad Distrital Francisco José de Caldas — Bogotá, Colombia
+```
+
+---
+
+## `15 / connect`
+
+```console
+$ ./connect.sh
+
+> cloud architecture
+> technology strategy
+> platform engineering
+> DevOps
+> distributed systems
+> production AI
+> technical leadership
+```
+
+<div align="center">
+
+<br>
+
+<a href="https://www.linkedin.com/in/luis-felipepl/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:felipephat@hotmail.com"><img src="https://img.shields.io/badge/Send_an_Email-232F3E?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+
+</div>
