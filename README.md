@@ -539,28 +539,31 @@ Standards are more useful when they are implemented as something teams can
 directly consume: a module, pipeline, API, template, golden path, or platform service.
 
 ---
-
-## `09 / ai-systems`
+## `09 / ai & machine-learning`
 
 ```console
-$ ai-platform --production
+$ ai-platform --capabilities
 
-FOUNDATION MODELS      Amazon Bedrock
-RETRIEVAL              RAG / Knowledge Bases
-AGENTS                 tool-enabled workflows
-INTEGRATION            MCP / APIs
-SECURITY               scoped permissions
-GUARDRAILS             enabled
-EVALUATION             automated
-OBSERVABILITY          enabled
-HUMAN APPROVAL         where required
+GENERATIVE AI        Claude · OpenAI · Gemini · Amazon Bedrock
+AI ENGINEERING       RAG · Agents · MCP · Tool Use · Knowledge Bases
+HARNESS ENGINEERING  controlled environments for agent execution
+SPEC-DRIVEN DEV      specifications as the source of truth
+EVALUATION           automated evals and deterministic validation
+GUARDRAILS           security · permissions · human approval
+MACHINE LEARNING     custom models · recommendation systems
+MLOPS                training · deployment · inference · monitoring
 ```
+
+### Generative AI
 
 ```yaml
 generative_ai:
 
-  platforms:
+  platforms_and_models:
     - Amazon_Bedrock
+    - Anthropic_Claude
+    - OpenAI
+    - Google_Gemini
 
   patterns:
     - RAG
@@ -568,52 +571,246 @@ generative_ai:
     - agents
     - tool_use
     - MCP
+    - structured_outputs
 
   architecture:
     - model_abstraction
+    - multi_model_strategies
     - controlled_context
     - scoped_tool_access
     - human_in_the_loop
     - auditability
 
   production:
-    - evaluation
+    - evaluations
     - guardrails
     - observability
     - security
-    - versioned_prompts_and_specs
+    - prompt_versioning
     - automated_delivery
 ```
 
-I approach AI systems as production systems.
+I design AI systems independently of a single model provider.
 
-The model is one component. The architecture around it still needs security,
-access control, observability, evaluation, deployment, integration, governance,
-and clear operational ownership.
+The model can change. The architecture around it still needs reliable context,
+controlled access to tools and enterprise systems, security, evaluation,
+observability, deployment, governance, and clear operational ownership.
+
+---
+
+### Harness Engineering
+
+```python
+class AgentHarness:
+    """
+    Controlled environment where AI agents can plan,
+    execute, validate and operate safely.
+    """
+
+    spec          = VersionedSpec()
+    context       = ControlledContext()
+    tools         = MCPServer(access="scoped")
+    permissions   = LeastPrivilege()
+    validation    = AutomatedEvals()
+    guardrails    = Guardrails(enabled=True)
+    observability = Tracing(enabled=True)
+    audit         = AuditTrail(enabled=True)
+
+    human_gate    = "when risk or compliance requires it"
+```
+
+Harness engineering provides the execution environment around an agent.
+
+Instead of giving a model unrestricted access and relying only on prompts,
+the harness defines what the agent can access, which tools it can execute,
+how outputs are validated, what actions require approval, and how the entire
+execution can be observed and audited.
+
+---
+
+### Spec-Driven Development
+
+```yaml
+spec_driven_development:
+
+  source_of_truth:
+    - requirements
+    - architecture_decisions
+    - interfaces
+    - constraints
+    - acceptance_criteria
+
+  workflow:
+    spec:
+      ↓
+    plan:
+      ↓
+    implementation:
+      ↓
+    automated_validation:
+      ↓
+    review:
+      ↓
+    production:
+
+  principles:
+    - specifications_are_versioned
+    - decisions_are_reviewable
+    - implementation_is_traceable
+    - agents_work_within_defined_constraints
+    - validation_is_automated_where_possible
+```
+
+AI-assisted development becomes much more reliable when the specification,
+not the conversation history, defines what needs to be built.
+
+Specs provide a stable contract that humans, agents, CI/CD pipelines, and
+validation tools can work against.
+
+---
+
+### AI Delivery Flow
 
 ```mermaid
 flowchart LR
-    APP[Application] --> API[AI Service]
-    API --> RET[RAG / Knowledge Base]
-    API --> MODEL[Foundation Model]
-    API --> AGENT[Agent]
+    BUSINESS[Business Need] --> SPEC[Versioned Spec]
+    SPEC --> PLAN[Plan]
+    PLAN --> AGENT[AI Agent]
 
-    AGENT --> MCP[MCP / Tools]
-    MCP --> SYS[Enterprise Systems]
+    AGENT --> HARNESS[Execution Harness]
 
-    API --> GR[Guardrails]
-    API --> OBS[Observability]
-    API --> EVAL[Evaluation]
+    HARNESS --> MCP[MCP / Tools]
+    HARNESS --> CODE[Implementation]
+    HARNESS --> KB[RAG / Knowledge]
+
+    MCP --> SYSTEMS[Enterprise Systems]
+
+    CODE --> EVAL[Automated Evaluation]
+    KB --> EVAL
+
+    EVAL --> GATE{Validation}
+
+    GATE -->|Pass| CICD[CI/CD]
+    GATE -->|Review| HUMAN[Human Approval]
+
+    HUMAN --> CICD
+    CICD --> PROD[Production]
+
+    PROD --> OBS[Observability]
+    OBS --> SPEC
 ```
 
-<p>
-<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900">
-<img src="https://img.shields.io/badge/Generative_AI-B54708?style=flat-square">
-<img src="https://img.shields.io/badge/AI_Agents-1B4F8C?style=flat-square">
+---
+
+### Machine Learning
+
+```yaml
+machine_learning:
+
+  platform:
+    - Amazon_SageMaker
+
+  use_cases:
+    - recommendation_systems
+    - predictive_models
+    - classification
+    - ranking
+    - custom_machine_learning_models
+
+  lifecycle:
+    - data_preparation
+    - feature_engineering
+    - training
+    - evaluation
+    - model_registry
+    - deployment
+    - real_time_inference
+    - batch_inference
+    - monitoring
+
+  mlops:
+    - reproducible_training
+    - model_versioning
+    - automated_pipelines
+    - controlled_deployment
+    - performance_monitoring
+```
+
+My AI work is not limited to generative AI.
+
+I also work with custom machine learning models, including recommendation
+systems, using SageMaker for training, deployment, inference, and the
+operational lifecycle around those models.
+
+---
+
+### AI Architecture
+
+```mermaid
+flowchart TB
+
+    APP[Applications]
+
+    APP --> AI[AI Platform]
+
+    AI --> GEN[Generative AI]
+    AI --> ML[Machine Learning]
+
+    GEN --> CLAUDE[Claude]
+    GEN --> OPENAI[OpenAI]
+    GEN --> GEMINI[Gemini]
+    GEN --> BEDROCK[Amazon Bedrock]
+
+    GEN --> RAG[RAG / Knowledge Bases]
+    GEN --> AGENTS[Agents]
+
+    AGENTS --> HARNESS[Harness]
+    HARNESS --> MCP[MCP / Tools]
+    MCP --> ENTERPRISE[Enterprise Systems]
+
+    ML --> SAGEMAKER[Amazon SageMaker]
+    SAGEMAKER --> CUSTOM[Custom Models]
+    CUSTOM --> RECS[Recommendation Systems]
+
+    AI --> EVALS[Evaluation]
+    AI --> GUARDRAILS[Guardrails]
+    AI --> OBS[Observability]
+    AI --> CICD[CI/CD]
+```
+
+<div align="center">
+
+### Models & Platforms
+
+<img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon-SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900">
+
+### AI Engineering
+
+<img src="https://img.shields.io/badge/Harness_Engineering-B54708?style=flat-square">
+<img src="https://img.shields.io/badge/Spec_Driven_Development-1B4F8C?style=flat-square">
+<img src="https://img.shields.io/badge/AI_Agents-4A5568?style=flat-square">
 <img src="https://img.shields.io/badge/MCP-D97757?style=flat-square">
 <img src="https://img.shields.io/badge/RAG-4A5568?style=flat-square">
 <img src="https://img.shields.io/badge/Knowledge_Bases-4A5568?style=flat-square">
-</p>
+<img src="https://img.shields.io/badge/Tool_Use-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Guardrails-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/AI_Evaluation-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/AI_Observability-4A5568?style=flat-square">
+
+### Machine Learning & MLOps
+
+<img src="https://img.shields.io/badge/Machine_Learning-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Recommendation_Systems-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Custom_Models-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/MLOps-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Real_Time_Inference-4A5568?style=flat-square">
+<img src="https://img.shields.io/badge/Model_Monitoring-4A5568?style=flat-square">
+
+</div>
 
 ---
 
